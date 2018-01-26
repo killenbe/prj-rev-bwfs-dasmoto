@@ -1,0 +1,38 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	font-family: helvetica;
+}
+h1 {
+	font-size: 100px;
+	font-weight: bold;
+	color: khaki;
+	text-align: center;
+	background-image:url(../pics/pattern.jpeg)
+}
+
+.brushes h2 {
+	font-size: 32px;
+	font-weight: bold;
+	color: white;
+	background-color: mediumspringgreen;
+
+}
+
+.price {
+	font-weight: bold;
+	color: blue;
+}
+
+.frames h2 {
+	background-color: lightcoral;
+	color: white;
+	font-weight: 32px;
+}
+
+.paint h2 {
+	background-color: skyblue;
+	color: white;
+	font-weight: 32px;
+}
